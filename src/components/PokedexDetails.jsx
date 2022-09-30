@@ -28,7 +28,7 @@ const PokedexDetails = () => {
           className="content-header-img"
           onClick={() => navigate("/pokedex")}
         >
-          <img src="src/assets/images/Pokedex.png" alt="pokedex" />
+          <img src="src/images/Pokedex.PNG" alt="pokedex" />
         </div>
       </div>
       <Button
