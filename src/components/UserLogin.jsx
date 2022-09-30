@@ -18,7 +18,10 @@ const UserLogin = () => {
     <div className="content-login">
       <div className="container-input">
         <div className="img-pokedex">
-          <img src="../src/assets/images/hader-login.png" alt="pokedex" />
+          <img
+            src="https://github.com/elias-salazar/entregable-05/blob/01aebe454d9905c195f9f0ac50a5108bafc6d766/src/assets/images/hader-login.png"
+            alt="pokedex"
+          />
         </div>
         <div className="content-hi-login">
           <h1>¡Hola entrenador!</h1>
