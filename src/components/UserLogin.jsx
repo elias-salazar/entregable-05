@@ -18,11 +18,7 @@ const UserLogin = () => {
     <div className="content-login">
       <div className="container-input">
         <div className="img-pokedex">
-          <div
-            className="img"
-            style={{ backgroundImage: "url(images/hader-login.png)" }}
-          ></div>
-          {/* <img src="./src/assets/images/hader-login.png" alt="pokedex" /> */}
+          <img src="./src/assets/images/hader-login.png" alt="pokedex" />
         </div>
         <div className="content-hi-login">
           <h1>¡Hola entrenador!</h1>

@@ -38,10 +38,11 @@ justify-content: center;
 }
 .img-pokedex{
   width: 60% ;
-  
+
 }
-.img-pokedex .img{
+.img-pokedex img{
   width: 100%;
+
 }
 .content-hi-login{
   width: 60% ;
