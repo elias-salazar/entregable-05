@@ -69,7 +69,7 @@ const Pokedex = () => {
           className="content-header-img"
           onClick={() => navigate("/pokedex")}
         >
-          <img src="https://imgur.com/tKHhU6f" alt="pokedex" />
+          <img src="https://i.ibb.co/3ft0SN1/Pokedex.png" alt="Pokedex" />
         </div>
       </div>
 
